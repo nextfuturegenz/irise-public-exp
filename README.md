@@ -111,3 +111,4 @@ lib/
 
 Made with ⚡ at the iRise Buildathon. Now go build something.
 # irise-event-ai-meeting-analyser
+# irise-public-exp
