@@ -1,9 +1,9 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "AI Meeting Notes → Action Items",
+  title: "Task Master — AI Meeting Intelligence",
   description:
-    "Paste meeting notes, get structured action items. Built live at the iRise Buildathon.",
+    "Turn meeting notes into structured action items, owner assignments, and personalized email drafts in seconds.",
 };
 
 export default function RootLayout({ children }) {
